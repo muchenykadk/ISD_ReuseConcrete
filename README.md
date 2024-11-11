@@ -1,4 +1,4 @@
 # ISD_ReuseConcrete
-Resource for Seminar at i.sd University of Innsbruck
-created by Muchen Yan
-Code used in the Grasshopper scripts referenced open-source solutions  
+<br/> Resource for students inStÖk, CaDP Seminar at i.sd, University of Innsbruck
+<br/> created by Muchen Yan
+<br/> Code used in the Grasshopper scripts referenced open-source solutions  
