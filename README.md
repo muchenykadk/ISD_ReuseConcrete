@@ -8,6 +8,7 @@ To work with the files in this repository, please ensure the following software 
 - **Grasshopper Plugins**:
   
   - **OpenNest** – for arranging and nesting elements within the design.
+  - **Pufferfish** –
  
 Import from Rhino to Blender for rigid body simulation:
  - Export from Rhino as obj.
