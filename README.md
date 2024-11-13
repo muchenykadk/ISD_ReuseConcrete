@@ -22,4 +22,4 @@ Import from Rhino to Blender for rigid body simulation:
  - calculate mass for each piece.
 
  
- **Ackonwledgement:** Code used in the Grasshopper scripts referenced open-source solutions. Including: <br/> https://github.com/dantaeyoung/GrasshopperArsenal/tree/master/HungarianAlgorithm <br/> https://github.com/bonalan/From-Waste-to-Resource/tree/main
+ **Acknowledgement:** Code used in the Grasshopper scripts referenced open-source solutions. Including: <br/> https://github.com/dantaeyoung/GrasshopperArsenal/tree/master/HungarianAlgorithm <br/> https://github.com/bonalan/From-Waste-to-Resource/tree/main
