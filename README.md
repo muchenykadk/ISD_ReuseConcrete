@@ -20,3 +20,4 @@ Import from Rhino to Blender for rigid body simulation:
  - adjust parameters in rigid body setting.
  - Select all other objects first and the edited object last, go to object - rigid body - copy from active.
  - calculate mass for each piece.
+<br/> **Ackonwledgement:** Code used in the Grasshopper scripts referenced open-source solutions. Including: <br/> https://github.com/dantaeyoung/GrasshopperArsenal/tree/master/HungarianAlgorithm <br/> https://github.com/bonalan/From-Waste-to-Resource/tree/main
